@@ -1,0 +1,11 @@
+{
+  "name": "stately",
+  "version": "1.0.0",
+  "description": "A dead simple state manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Leo Cooper",
+  "license": "ISC"
+}
